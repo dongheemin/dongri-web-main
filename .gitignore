@@ -127,3 +127,5 @@ fabric.properties
 *.pdf
 /.env
 /gradle/wrapper/gradle-wrapper.properties
+gradlew
+gradlew.bat
